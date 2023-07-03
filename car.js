@@ -1,7 +1,7 @@
 let des = document.getElementById('des').getContext('2d')
 
 //definição das instâncias
-const c1 = new Obj(260,480,60,60,'orange')
+const c1 = new Obj(260,480,50,30,'darkblue')
 
 //definição dos textos
 
